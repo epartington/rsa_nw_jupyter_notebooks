@@ -17,3 +17,9 @@ https://hub.mybinder.org/user/johnlatwc-shared-y8luz9uy/notebooks/notebooks/Malw
 https://github.com/Cyb3rWard0g/HELK/tree/master/docker/helk-jupyter/notebooks
 
 https://github.com/sooshie/Security-Data-Analysis
+
+https://github.com/fastforwardlabs/anomaly_detection/blob/master/Anomaly%20Detection%20Post.ipynb
+
+http://blog.josephmisiti.com/group-by-datetimes-in-pandas
+
+https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/
