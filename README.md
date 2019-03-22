@@ -1,7 +1,10 @@
 # rsa_nw_jupyter_notebooks
 Jupyter Notebooks for Various RSA NetWitness functions
 
-Resources that I found useful for Jupyter notebooks
+## Anaconda
+I have found the Anaconda desktop app really helpful to get Jupyter running on a local machine to make these manipulations easier (access remote systems from API etc to help with API)
+
+##Resources that I found useful for Jupyter notebooks
 
 http://blog.josephmisiti.com/group-by-datetimes-in-pandas
 
