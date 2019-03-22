@@ -1,4 +1,4 @@
-# rsa_nw_jupyter_notebooks
+# RSA NetWitness Juypter Notebooks
 Jupyter Notebooks for Various RSA NetWitness functions
 
 ## Anaconda
@@ -15,3 +15,5 @@ https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pan
 https://hub.mybinder.org/user/johnlatwc-shared-y8luz9uy/notebooks/notebooks/Malware%20Decode%20Demo.ipynb
 
 https://github.com/Cyb3rWard0g/HELK/tree/master/docker/helk-jupyter/notebooks
+
+https://github.com/sooshie/Security-Data-Analysis
